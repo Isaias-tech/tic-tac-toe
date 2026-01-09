@@ -1,1 +1,1 @@
-# [TIC-TAC-TOE](https://isaias-tech.github.io/tic-tac-toe/)
+# [TIC-TAC-TOE](https://github.com/Isaias-tech/tic-tac-toe)
